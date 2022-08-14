@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ScrollableList</string>
+    <string name="item1">List Item 1</string>
+    <string name="item2">List Item 2</string>
+    <string name="item3">List Item 3</string>
+    <string name="item4">List Item 4</string>
+    <string name="item5">List Item 5</string>
+    <string name="item6">List Item 6</string>
+    <string name="item7">List Item 7</string>
+    <string name="item8">List Item 8</string>
+    <string name="item9">List Item 9</string>
+    <string name="item10">List Item 10</string>
+    <string name="item11">List Item 11</string>
+    <string name="item12">List Item 12</string>
+    <string name="item13">List Item 13</string>
+    <string name="item14">List Item 14</string>
+    <string name="item15">List Item 15</string>
+    <string name="item16">List Item 16</string>
+    <string name="item17">List Item 17</string>
+    <string name="item18">List Item 18</string>
+    <string name="item19">List Item 19</string>
+    <string name="item20">List Item 20</string>
+</resources>
